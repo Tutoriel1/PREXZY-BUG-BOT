@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
+global.ownernomer = "221787822925"
 global.ownername = "Precious Ayomide👑"
 global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '263717750825'  //creator number
+global.ownernumber = '221787822925'  //creator number
 global.ownername = 'Precious Ayomide👑' //owner name
 global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
@@ -24,7 +24,7 @@ global.wm = "PREXZYVILLA."
 global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
